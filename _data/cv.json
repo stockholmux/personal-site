@@ -1,0 +1,161 @@
+{
+  "basics": {
+    "name": "Kyle J. Davis",
+    "label": "Open Source & Developer Advocate",
+    "summary": "Passionate about the intersection of people, communication, and technology. Interested in databases, low-level software, 3D modeling/design, and open source communities. Dual US/Canadian Citizen.",
+    "location": {
+      "city": "Edmonton",
+      "countryCode": "Canada",
+      "region": "Alberta"
+    },
+    "profiles": [
+      {
+        "network": "Mastodon",
+        "username": "@linux_mclinuxface@fosstodon.org",
+        "url": "https://fosstodon.org/@linux_mclinuxface"
+      },
+      {
+        "network" : "GitHub",
+        "username" : "stockholmux",
+        "url": "https://github.com/stockholmux"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Amazon Web Services",
+      "position": "Senior Developer Advocate / [Bottlerocket](https://github.com/bottlerocket-os) & [Finch](https://github.com/runfinch/finch)",
+      "startDate": "2022",
+      "endDate": "Present",
+      "highlights": [
+        "Served on leadership team.",
+        "Lead project documentation.",
+        "Advised on open source strategy.",
+        "Represented project at conferences.",
+        "Established community meeting series.",
+        "Launched the Finch project.",
+        "Coordinated team conference presence."
+      ]
+    },
+    {
+      "position": "Senior Developer Advocate / [OpenSearch](https://opensearch.org)",
+      "startDate": "2020",
+      "endDate": "2022",
+      "highlights": [
+        "Facilitated the forking of Elasticsearch into OpenSearch.",
+        "Established open source strategy.",
+        "Led community meetings.",
+        "Managed artifact releases.",
+        "Edited blog and content pipeline.",
+        "Coordinated external partnerships."
+      ]
+    },
+    {
+      "company": "Redis Labs",
+      "position": "Head of Developer Advocacy",
+      "startDate": "2018",
+      "endDate": "2020",
+      "highlights": [
+        "Managed team of 2 Developer Advocates.",
+        "Facilitated conference trainings & technical workshops.",
+        "Wrote monthly newsletter.",
+        "Wrote book _Redis Microservices for Dummies_ (Wiley).",
+        "Authored regular technical blog posts.",
+        "Created technical decks to illustrate product capabilities.",
+        "Provided feedback and community information to engineering.",
+        "Served as subject matter expert for product.",
+        "Served as general product spokesperson for media.",
+        "Supported in-person events."
+      ]
+    },
+    {
+      "name": "Redis Labs",
+      "position": "Technical Marketing Manager",
+      "startDate": "2017",
+      "endDate": "2018",
+      "highlights": [
+          "Provided feedback on technical content.",
+          "Wrote technical content for web pages and gated assets.",
+          "Produced white papers.",
+          "Assisted with trainings.", 
+          "Assisted with technical analyst relations.", 
+          "Produced animated feature videos.", 
+          "Managed the production of _Redis for Dummies_ (Wiley).", 
+          "Authored regular technical blog posts.", 
+          "Created technical decks to illustrate product capabilities.", 
+          "Wrote and maintained feature demos.", 
+          "Served as subject matter expert for product.", 
+          "Supported in-person events."
+      ]
+    },
+    {
+      "company": "Akureryi Networks",
+      "startDate" : "2014",
+      "endDate" : "2017",
+      "summary" : "Freelance technical consultant, author, and software developer."
+    },
+    {
+      "company": "T-Mark International",
+      "startDate": "2012",
+      "endDate": "2014",
+      "summary" : "Technical Production Analyst for reliability, code quality, and standardization"
+    }
+  ],
+  "skills": [
+
+    { "name": "Javascript", "time": "22 years", "category" : "Technical Skills" },
+    { "name": "Python", "time" : "7 years", "category" : "Technical Skills" },
+    { "name": "WASM", "time" : "1 year", "category" : "Technical Skills" },
+    { "name": "Rust", "time" : "1 year", "category" : "Technical Skills" },
+    { "name": "OpenSCAD", "time" : "2 years", "category" : "Technical Skills" },    
+
+    { "name": "OpenSearch", "time": "2 years", "category" : "Technical Skills" },
+    { "name": "Redis", "time": "8 years", "category" : "Technical Skills" },
+    { "name": "SQL", "time" : "16 years", "category" : "Technical Skills" },
+    { "name": "Firebase", "time" : "2 years", "category" : "Technical Skills" },
+
+    { "name": "Linux", "time" : "10 years", "category" : "Technical Skills" },
+    { "name": "Containers", "time" : "5 years", "category" : "Technical Skills" },
+    { "name": "Kubernetes", "time" : "1 year", "category" : "Technical Skills" },
+    
+    { "name": "HTML", "time" : "25 years", "category" : "Technical Skills" },
+    { "name": "Jekyll", "time" : "2 year", "category" : "Technical Skills" },
+    { "name": "Hugo", "time" : "1 year", "category" : "Technical Skills" },
+    
+    { "name": "Public speaking (extensive)", "category" : "Other Skills"  },
+    { "name": "Writing & Editing", "category" : "Other Skills" },
+    { "name": "Illustration & Diagraming", "category" : "Other Skills" },
+    { "name": "Animation", "category" : "Other Skills" },
+    { "name": "Screencasting", "category" : "Other Skills" },
+    { "name": "Graphic Design", "category" : "Other Skills" },
+    { "name": "3D Modeling & Design", "category" : "Other Skills" }
+    
+  ],
+  "languages": [
+    { "language": "English", "fluency": "Native speaker"},
+    { "language": "Swedish", "fluency": "Limited working proficiency, 1.5 years classwork"}
+  ],
+  "education": [
+    {
+      "institution": "University of Central Missouri",
+      "area": "College Student Personnel Administration",
+      "studyType": "Master’s of Science",
+      "startDate": "2004",
+      "endDate": "2006"
+    },
+    {
+      "institution": "Södertörn högskola",
+      "area": "Various courses",
+      "startDate" : "2002",
+      "endDate": "2002"
+    },
+    {
+      "institution": "University of Southern Indiana",
+      "area": "Computer Publishing and Telecommunications",
+      "studyType": "Bachelor’s of Science",
+      "startDate": "1999",
+      "endDate": "2002"
+    }
+  ]
+
+}

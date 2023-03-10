@@ -1,0 +1,13 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
+assets/javascripts
+assets/stylesheets
+_layouts
+_includes
+_sass
+
+_data/cv_private.yaml
