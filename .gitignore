@@ -11,3 +11,6 @@ _includes
 _sass
 
 _data/cv_private.yaml
+
+.DS_Store
+assets/.DS_Store

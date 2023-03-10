@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Licensing and OpenSCAD projects"
-date:   2023-03-06 00:00:00
+date:   2023-03-10 00:00:00
 categories: openscad oss
 ---
 
