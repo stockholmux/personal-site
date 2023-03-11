@@ -2,11 +2,13 @@ title: kjd
 email: "kyle [at] kylejdavis.com"
 description: >
   Personal website of Kyle J. Davis, open source and developer advocate. Mostly hobbies and non-work musings about technology.
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" 
 github_username:  stockholmux
 copyright: "(c) Kyle J. Davis."
 footer_notes: "I have to say it: Opinions here are my own and do not reflect those of my employer. " 
 
+mastodon_username: linux_mclinuxface
+mastodon_instance: fosstodon.org
 
 # Build settings
 remote_theme: stockholmux/jekyll-theme-basically-basic
