@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Licensing and OpenSCAD projects"
-date:   2023-03-10 00:00:00
+date:   2023-03-13 08:00:00
 categories: openscad oss
 ---
 
@@ -29,15 +29,15 @@ Here is where it gets weird: you can certainly license your OpenSCAD code with s
 
 If someone downloads your OpenSCAD code with an OSS license, makes a small modification, and uploads just the STL file to, say, Printables, do they need to attribute you? I think common sense would say "yep!" but I'm not sure that's how it works.
 
-I was given an example which refuses to leave my head: You write a Python script that creates a PNG with four circles and a square when it's run file (for argument's sake, the PNG isn't part of the repo). You release the source code under an MIT license. Does the PNG file also have the MIT license? Most people would say no. What if someone takes the script, modifies it, and uses it to create beautiful work of art? Do they need to attribute you if they want to sell framed prints? Nahh, that doesn't make sense.
+I was given an example which refuses to leave my head: You write a Python script that creates a PNG with four circles and a square when it's run (for argument's sake, the PNG isn't part of the repo). You release the source code under an MIT license. Does the PNG file also have the MIT license? Most people would say no. What if someone takes the script, modifies it, and uses it to create a beautiful work of art? Do they need to attribute you if they want to sell framed prints? Nahh, that doesn't make sense.
 
-Admittedly, it seems pretty straightforward in the Python examples but I can't put my finger on what's different about OpenSCAD. 
+Admittedly, it seems pretty straightforward in the Python examples but I can't put my finger on what's different about OpenSCAD and why it seems the other way around. 
 
 ## What's next?
 
 First, I'd love for someone to tell me a nice, crisp solution to the problem. If there is something I've just missed or misunderstood about this problem, I would rapidly share a lot more OpenSCAD on GitHub. I'd love it if people used and enjoyed my projects. 
 
-Without some license applying to the resulting models of the OpenSCAD code, I worry that malicious actors might pass off my designs as their own, which would irk me. Worse though could be someone claiming that _I _was the one who stole their work. I know it wouldn't be held up but copyright trolls do exist and they feed on content with unclear ownership. I don't need that in my hobby.
+Without some license applying to the resulting models of the OpenSCAD code, I worry that malicious actors might pass off my designs as their own, which would irk me. Worse though could be someone claiming that _I_ was the one who stole their work. I know it wouldn't be held up but copyright trolls do exist and they feed on content with unclear ownership. I don't need that in my hobby.
 
 What I would love is some sort of license that fits this niche. But legal advice is expensive and the OpenSCAD community is tiny.
 
