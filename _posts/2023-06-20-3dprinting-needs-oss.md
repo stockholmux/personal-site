@@ -6,7 +6,7 @@ categories: oss 3dprinting
 excerpt: "Thomas Sanlander's recent video was a bad take. I don't think he proved his thesis (we should embrace closed source products?), but what I think he did do is underline how little the 3D printing industry understands open source and how they're super bad at using it"
 ---
 
-[Thomas Sanlander's recent video was a bad take. ](https://www.youtube.com/watch?v=68FkIwCc_eo)
+[Thomas Sanladerer's recent video was a bad take. ](https://www.youtube.com/watch?v=68FkIwCc_eo)
 
 I don't think he proved his thesis (we should embrace closed source products?), but what I think he did do is underline how little the 3D printing industry understands open source and how they're super bad at using it. 
 
