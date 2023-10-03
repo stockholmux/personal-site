@@ -48,4 +48,6 @@ google_fonts:
 navigation_pages:
   - about.markdown
   - cv.markdown
+  - writings.markdown
+  - presentations.markdown
   - disambig.markdown
