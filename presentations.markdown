@@ -8,6 +8,8 @@ columns:
     - Location
 sort_column: "date"
 types:
+    - type: meetup
+      pretty: Meetup Presentation
     - type: conf
       pretty: Conference Presentation
     - type: podcast
@@ -20,6 +22,18 @@ types:
       pretty: Cours
 
 items:
+    -   title: "Intro to Bottlerocket"
+        for: CNCF TAG Runtime / Special Purpose Operating System Working Group
+        date: 2023-10-23
+        type: meetup
+    -   title: "Container Optimized Linux: The Best Idea You're Probably Not Using"
+        for: DevOps Columbia
+        date: 2023-08-23
+        type: meetup
+    -   title: Logging with Amazon EKS, Bottlerocket, Fluent Bit, and OpenSearch (Workshop)
+        for: re:Invent 2023
+        date: 2023-12-01
+        type: conf
     -   title: A Deep Dive into Bottlerocket
         for: Containers from the Couch
         date: 2023-09-01
