@@ -214,6 +214,10 @@ items:
         for: Open Source North 2022
         type: conf
         date: 2022-05-24 
+    -   title: "First steps to Bottlerocket Contribution"
+        for: AWS Summit Toronto
+        type: conf
+        date: 2022-06-22
     -   title: "OpenSearch: The Open Source Successor of Elasticsearch?"
         for: Open Observability Podcast
         type: podcast
