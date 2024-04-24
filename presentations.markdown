@@ -22,6 +22,35 @@ types:
       pretty: Cours
 
 items:
+    -   title: "Digging in to Valkey, an open source, in-memory data store"
+        for: Open Source Summit North America
+        date: 2024-04-16
+        type: conf
+    -   title: "Digging in to Valkey, an open source, in-memory data store"
+        for: Texas Linux Fest
+        date: 2024-04-13
+        link: https://2024.texaslinuxfest.org/talks/digging-in-to-valkey/
+        type: conf
+    -   title: "Container Optimized Linux: The best idea you're probably not using."
+        for: Texas Linux Fest
+        date: 2024-04-13
+        link: https://2024.texaslinuxfest.org/talks/container-optimized-linux/
+        type: conf
+    -   title: "How to talk to people about immutability"
+        for: SCaLE21x
+        date: 2024-03-16
+        type: conf
+        link: https://www.socallinuxexpo.org/scale/21x/presentations/how-talk-people-about-immutability
+    -   title: "Turn code into real-life stuff with OpenSCAD (Workshop)"
+        for: SCaLE21x
+        date: 2024-03-15
+        type: conf
+        link: https://www.socallinuxexpo.org/scale/21x/presentations/turn-code-real-life-stuff-openscad-workshop
+    -   title: "How you write matters in open source"
+        for: FOSSBackstage
+        date: 2024-04-03
+        type: conf
+        link: https://youtu.be/zps6leB5IM4
     -   title: "Intro to Bottlerocket"
         for: CNCF TAG Runtime / Special Purpose Operating System Working Group
         date: 2023-10-23
