@@ -24,9 +24,17 @@
   "work": [
     {
       "company": "Amazon Web Services",
+      "position": "Senior Developer Advocate / [Valkey](https://valkey.io)",
+      "startDate": "2024",
+      "endDate": "Present",
+      "highlights": [
+        "Established cross-organizational open source strategy."
+      ]
+    },
+    {
       "position": "Senior Developer Advocate / [Bottlerocket](https://bottlerocket.dev) & [Finch](https://github.com/runfinch/finch)",
       "startDate": "2022",
-      "endDate": "Present",
+      "endDate": "2024",
       "highlights": [
         "Served on leadership team.",
         "Lead project documentation.",
