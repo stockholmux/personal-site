@@ -19,6 +19,11 @@ types:
       pretty: Tutorial
 
 items:
+    -   title: Why AWS Supports Valkey
+        link: https://aws.amazon.com/blogs/opensource/why-aws-supports-valkey/
+        date: 2024-04-04
+        type: blog
+        for: AWS
     -   title: Building a Health-Care-Provider Finder
         link: https://redislabs.com/blog/building-a-health-care-provider-finder/
         date: 2020-05-26
